@@ -2,7 +2,7 @@
 
 Welcome to the official code repository for the book, **"Build DeepSeek from Scratch"** by Dr. Raj Dandekar, Dr. Rajat Dandekar, Dr. Sreedath Panat, and Naman Dwivedi of [Vizuara AI Labs](https://home.vizuara.ai/).
 
-This book and repository provide a hands-on guide to understanding and implementing the key architectural innovations behind one of the world's most powerful open-source Large Language Models.
+This book and repository provide a hands-on guide to understanding and implementing the key architectural innovations behind DeepSeek.
 
 ### Official YouTube Series
 
