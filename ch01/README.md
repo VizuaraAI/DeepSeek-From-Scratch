@@ -9,3 +9,4 @@ As this is an introductory chapter, there are no code files.
 
 - **[Build DeepSeek from Scratch: Series Introduction](https://www.youtube.com/watch?v=QWNxQIq0hMo)**
 - **[DeepSeek Basics](https://www.youtube.com/watch?v=WjhDDeZ7DvM)**
+- **[LLM Architecture in 1 hour | Journey of token through the LLM Architecture](https://www.youtube.com/watch?v=rkEYwH4UGa4)**
