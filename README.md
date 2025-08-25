@@ -8,7 +8,7 @@ This book and repository provide a hands-on guide to understanding and implement
 
 This book is accompanied by our viral "Build DeepSeek from Scratch" YouTube playlist, which has helped researchers, developers, and entrepreneurs worldwide. We highly recommend watching the videos alongside reading the chapters for a comprehensive learning experience.
 
-➡️ **[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLPTVONXA_ZSiOpKKIHCyOq9lnp-dLvlms)**
+➡️ **[Watch the full playlist on YouTube](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiOpKKlHCyOq9lnp-dLvlms)**
 
 ### About This Book
 
